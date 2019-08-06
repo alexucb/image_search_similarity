@@ -1,7 +1,7 @@
 # image_search_similarity
 
 1. Here is a simple script to show how we can do image search using open-cv, by ImageHash and SIFT algorightm. 
-2. This can be used to face-dectection,  pornographic images detection, as well as many other applications where image similarity is needed.
+2. This can be used to face-detection,  pornographic images detection, as well as many other applications where image similarity is needed.
 
 Q&A:
 If you have problem with AttributeError: 'module' object has no attribute 'xfeatures2d'.
